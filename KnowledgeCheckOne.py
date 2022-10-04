@@ -5,7 +5,7 @@ print("Hello World")
 myList = ["chocolate", "bacon", "steak"]
 
 # Then, print() one of those values either to the prompt or in a cell (if using Jupyter Notebook)
-print(MyList[0])
+print(myList[0])
 
 # a dictionary populated with two keys and two values. 
 newDict = {
@@ -19,7 +19,7 @@ newDict = {
 }
 
 # Print one of the values just like you did above.
-print(newDict[do])
+print(newDict["do"])
 
 # a tuple with 4 values. Print one of them.
 planetaryMnemonicTuple = ("My", "Very", "Entertaining", "Monkey", "Just", "Sat", "Upon", "9", "Peanuts")
